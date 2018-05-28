@@ -1,4 +1,4 @@
-# Attempt to make the Quarter Number Sequence from Fib
+# Attempt to make the Quarter Number Sequence (A002620) from Fib
 #example on Python site, used Sage code on
 #https://oeis.org/search?q=0%2C1%2C2%2C4%2C6%2C9%2C12&sort=&language=english&go=Search
 #went back to Fib code and finished in about ten minutes
